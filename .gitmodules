@@ -1,0 +1,3 @@
+[submodule "guardian-crossword-scraper"]
+	path = guardian-crossword-scraper
+	url = https://github.com/txsl/guardian-crossword-scraper
